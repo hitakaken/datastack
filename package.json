@@ -1,0 +1,43 @@
+{
+  "name": "datastack",
+  "version": "1.0.0",
+  "description": "DataStack :: Data Process & Analyze",
+  "main": "lib/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CaoKe",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "decompress": "^2.3.0",
+    "download": "^4.2.0",
+    "es6-module-loader": "^0.17.6",
+    "file-exists": "^0.1.1",
+    "gulp-typescript": "^2.8.0",
+    "htmlparser": "^1.7.7",
+    "java": "^0.5.4",
+    "jquery": "^2.1.4",
+    "jsdom": "^6.1.0",
+    "lodash": "^3.10.1",
+    "merge": "^1.2.0",
+    "multimeter": "^0.1.1",
+    "noflo": "^0.5.13",
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.18",
+    "request": "^2.61.0",
+    "rimraf": "^2.4.2",
+    "semver": "^5.0.1",
+    "straw": "^0.3.2",
+    "tape": "^4.2.0",
+    "which": "^1.1.1",
+    "xmlhttprequest": "^1.7.0",
+    "yargs": "^3.21.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6"
+  }
+}

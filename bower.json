@@ -1,0 +1,20 @@
+{
+  "name": "datastack",
+  "version": "1.0.0",
+  "authors": [
+    "CaoKe"
+  ],
+  "description": "DataStack :: Data Process & Analyze",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
