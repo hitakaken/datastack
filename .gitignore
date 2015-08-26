@@ -2,5 +2,4 @@
 *.iml
 node_modules
 lib
-/datastack.iml
 bin
