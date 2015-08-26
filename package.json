@@ -25,6 +25,7 @@
     "noflo": "^0.5.13",
     "phantom": "^0.7.2",
     "phantomjs": "^1.9.18",
+    "ramda": "^0.17.1",
     "request": "^2.61.0",
     "rimraf": "^2.4.2",
     "semver": "^5.0.1",
