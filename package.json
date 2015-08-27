@@ -15,6 +15,7 @@
     "es6-module-loader": "^0.17.6",
     "file-exists": "^0.1.1",
     "gulp-typescript": "^2.8.0",
+    "hiredis": "^0.4.1",
     "htmlparser": "^1.7.7",
     "java": "^0.5.4",
     "jquery": "^2.1.4",
@@ -38,7 +39,10 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-coffee": "^2.3.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-jslint": "^0.2.2",
     "gulp-sourcemaps": "^1.5.2",
+    "gulp-typescript": "^2.8.0",
     "gulp-util": "^3.0.6"
   }
 }
