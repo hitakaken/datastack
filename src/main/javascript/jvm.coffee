@@ -11,6 +11,6 @@ console.log jarsDirectory
 dependencies.forEach (dependency)->
   java.classpath.push jarsDirectory + '/' + dependency
 
-java.classpath.push './lib/classes';
+java.classpath.push './target/classes';
 
 module.exports.jvm = () -> java

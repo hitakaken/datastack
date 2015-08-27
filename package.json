@@ -14,7 +14,6 @@
     "download": "^4.2.0",
     "es6-module-loader": "^0.17.6",
     "file-exists": "^0.1.1",
-    "gulp-typescript": "^2.8.0",
     "hiredis": "^0.4.1",
     "htmlparser": "^1.7.7",
     "java": "^0.5.4",
