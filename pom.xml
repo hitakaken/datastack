@@ -12,6 +12,7 @@
         <maven.compiler.verion>3.3</maven.compiler.verion>
         <java.version>1.8</java.version>
         <!-- Dependencies -->
+        <apache.commons.io.version>2.4</apache.commons.io.version>
         <apache.poi.version>3.12</apache.poi.version>
         <apache.tika.version>1.10</apache.tika.version>
         <codahale.metrics.version>3.0.2</codahale.metrics.version>
@@ -24,6 +25,11 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>${apache.commons.io.version}</version>
+        </dependency>
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch</artifactId>
