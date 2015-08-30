@@ -38,6 +38,7 @@
     "uuid": "^2.0.1",
     "which": "^1.1.1",
     "xmlhttprequest": "^1.7.0",
+    "vertx3-full": "3.0.0-1",
     "yargs": "^3.21.0"
   },
   "devDependencies": {
